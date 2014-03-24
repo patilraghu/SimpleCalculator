@@ -86,7 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				F75608CF18C6B27E007E6EDC /* Main.storyboard */,
-				F75608C318C6B27E007E6EDC /* SimpleCalculator */,
+				F75608C318C6B27E007E6EDC /* SimpleTutorial */,
 				F75608E218C6B27E007E6EDC /* SimpleCalculatorTests */,
 				F75608BC18C6B27E007E6EDC /* Frameworks */,
 				F75608BB18C6B27E007E6EDC /* Products */,
@@ -113,7 +113,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F75608C318C6B27E007E6EDC /* SimpleCalculator */ = {
+		F75608C318C6B27E007E6EDC /* SimpleTutorial */ = {
 			isa = PBXGroup;
 			children = (
 				F77FADA718C6B33900CD3AD4 /* Controller */,
@@ -124,7 +124,6 @@
 				F75608D518C6B27E007E6EDC /* Images.xcassets */,
 				F75608C418C6B27E007E6EDC /* Supporting Files */,
 			);
-			name = SimpleCalculator;
 			path = SimpleTutorial;
 			sourceTree = "<group>";
 		};

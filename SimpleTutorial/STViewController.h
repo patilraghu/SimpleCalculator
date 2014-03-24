@@ -14,5 +14,6 @@
     Declare Calculator Result Label
  */
 @property (weak, nonatomic) IBOutlet UILabel *resultLabel;
+@property (weak, nonatomic) IBOutlet UILabel * opperator;
 
 @end
